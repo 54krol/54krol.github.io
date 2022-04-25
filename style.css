@@ -42,7 +42,7 @@
   color:black;
 }
 body{
-    background: rgb(256, 256, 256)
+    background: img(url(../img/krolik.gif);
 }
 h1,h2{
     color: white;
