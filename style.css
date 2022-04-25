@@ -42,7 +42,7 @@
   color:black;
 }
 body{
-    background: img(url(../img/rabbit.gif);
+    background: url(../img/rabbit.gif;
 }
 h1,h2{
     color: white;
