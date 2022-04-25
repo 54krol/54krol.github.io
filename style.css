@@ -43,6 +43,7 @@
 }
 body{
     background: url(../img/rabbit.gif);
+background-size: 100%;
 }
 h1,h2{
     color: white;
