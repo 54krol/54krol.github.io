@@ -1,18 +1,21 @@
 ﻿.category-wrap {
-  padding: 15px;
+  padding: 20px;
   background: black;
-  width: 200px;
+  width: 15%;
   box-shadow: 2px 2px 8px rgba(0,0,0,.1);
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 }
 .category-wrap a {
   color: white;
+  text-align: left;
+  margin-left: -3px;
 }
 .category-wrap h3 {
   font-size: 16px;
   color: white;
   margin: 0 0 10px;
-  padding: 0 5px;
+  padding: 0 3px;
   position: relative;
 }
 
@@ -25,9 +28,8 @@
 .category-wrap a {
   text-decoration: none;
   display: block;
-  font-size: 15px;
+  font-size: 1em;
   color: white;
-  padding: 3%;
   position: relative;
   transition: .5s linear;
 }
@@ -42,8 +44,7 @@
   color:black;
 }
 body{
-    background: url(../img/rabbit.gif);
-background-size: 100%;
+    background: rgb(256, 256, 256)
 }
 h1,h2{
     color: white;
@@ -58,3 +59,7 @@ p{
     font-size: 125%;
 }
 
+img{
+
+    margin-right: 4px;
+}
