@@ -47,12 +47,12 @@ body{
     background: rgb(256, 256, 256)
 }
 h1,h2{
-    color: white;
+    color: black;
     text-align: center;
     }
 
 p{
-    color:white;
+    color:black;
     text-align: left;
     margin-left: 30px;
     margin-right: 30px;
@@ -62,4 +62,10 @@ p{
 img{
 
     margin-right: 4px;
+}
+
+/*
+
+body{
+    background-image: url(img/rabbit.gif) ;
 }
